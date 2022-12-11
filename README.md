@@ -1,6 +1,5 @@
 ## Cay_bieu_thuc
 
-> [Document](https://drive.google.com/file/d/14Ad4P6sLkl22PxFl6ksYXhiVNTNQ4kKT/view)
 
 `Content`
 - [x] [CStack.c](https://github.com/phamvlap/Cay_bieu_thuc/blob/master/CStack.c)
